@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    background-color: orangered;
+}
+.header_container{
+    width: 80%;
+    margin: auto;
+    min-height: 100px;
+    background-color: grey;
+}
